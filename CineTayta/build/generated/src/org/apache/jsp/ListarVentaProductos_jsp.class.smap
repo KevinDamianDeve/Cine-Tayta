@@ -1,0 +1,19 @@
+SMAP
+ListarVentaProductos_jsp.java
+JSP
+*S JSP
+*F
++ 0 ListarVentaProductos.jsp
+ListarVentaProductos.jsp
+*L
+5,100:44
+105:144,3
+106:147
+107,9:148,3
+116,6:175
+122:181,3
+123,6:184
+129:190,3
+130,18:193
+149,35:211
+*E
